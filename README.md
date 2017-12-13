@@ -26,7 +26,7 @@ For this project, we create one ROS publisher and one ROS subscriber: publisher 
 - Next the user needs to create a 'work space' and a ' package'. To do so please follow steps (4.1 ,4.2) in the link below:
 [ROS Kinetic Publisher and Subscriber In Python](https://www.intorobotics.com/ros-kinetic-publisher-and-subscriber-in-python/).
 
-- Put the files found in folder Pub&Sub (in the project 3 folder) inside /your_work_space/src/your_pakage_name/src/
+- Put the files found in folder PubSub (in the project 3 folder) inside /your_work_space/src/your_pakage_name/src/
 
 - Go to /your_work_spase directory and type:
 ```
