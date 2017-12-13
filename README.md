@@ -65,3 +65,6 @@ $cd /your_work_space/src/your_pakage_name/src/
 $chmod u+x 'file_names.py'
 $rosrun 'your_pakage_name' 'file_name.py'
 ```
+
+
+
