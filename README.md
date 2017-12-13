@@ -7,7 +7,7 @@ For this project, we create one ROS publisher and one ROS subscriber: publisher 
 
 
 - **Publisher Node:** to publish six sensors’ reading 
-- **Subscriber Node:** to drive left and right wheels of the Roomba depending on the sensor reading. 
+- **Subscriber Node:** to drive left and right wheels of the Roomba.
 
 ## Required Resources 
  
